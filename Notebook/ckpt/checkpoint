@@ -1,2 +1,6 @@
-model_checkpoint_path: "model-0"
-all_model_checkpoint_paths: "model-0"
+model_checkpoint_path: "model-49950"
+all_model_checkpoint_paths: "model-49350"
+all_model_checkpoint_paths: "model-49500"
+all_model_checkpoint_paths: "model-49650"
+all_model_checkpoint_paths: "model-49800"
+all_model_checkpoint_paths: "model-49950"
