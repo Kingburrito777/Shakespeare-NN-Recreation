@@ -1,5 +1,5 @@
-# Shakespeare-chatbot
-Using Tensorflow, I am creating a chatbot that responds in a Shakespearean language. Data-set was all of Shakespeare's plays (specifically dialogue between players) made by myself.
+# Shakespeare-generator
+Using Tensorflow, I created a generator that creates new Shakespearean work. Data-set was all of Shakespeare's plays.
 
 # It works! If only I had 12 NVIDIA quadros and 128gb of ram :(
 It's ok though, hardware limitations proove that you're doing your best
