@@ -1,6 +1,6 @@
 # Shakespeare-generator
 Using Tensorflow, I created a generator that creates new Shakespearean work. Data-set was all of Shakespeare's plays.
-
+**Go to /Notebook/chatbot-master.ipynb -> Scroll to bottom to see output.
 
 # (March 27) It works! If only I had 12 NVIDIA quadros and 128gb of ram :(
 It's ok though, hardware limitations proove that you're doing your best
