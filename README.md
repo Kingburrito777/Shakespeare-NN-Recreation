@@ -4,6 +4,12 @@ Using Tensorflow, I created a generator that creates new Shakespearean work. Dat
 Looks like:
 ![Screenshot](Shakes.png)
 
+# Using Java Deep learning
+I've decided to go ahead and try it again with a Java network. It is much more stable and lets me use BOTH my GPU's.
+**Here's what turned out:**
+![Screenshot2](java_shksp.png)
+
+
 # (March 27) It works! With salty hardware limitations...
 It's ok though, hardware limitations proove that you're doing your best
 Have a look at the notebook and scroll all the way to the bottom to see results.
